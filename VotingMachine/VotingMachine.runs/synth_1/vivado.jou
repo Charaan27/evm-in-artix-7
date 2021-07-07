@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Jul  6 23:54:18 2021
+# Process ID: 12396
+# Current directory: D:/xilinxproj/VotingMachine/VotingMachine.runs/synth_1
+# Command line: vivado.exe -log Voting_Machine.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Voting_Machine.tcl
+# Log file: D:/xilinxproj/VotingMachine/VotingMachine.runs/synth_1/Voting_Machine.vds
+# Journal file: D:/xilinxproj/VotingMachine/VotingMachine.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Voting_Machine.tcl -notrace
